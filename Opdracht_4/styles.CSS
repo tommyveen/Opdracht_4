@@ -1,0 +1,84 @@
+body { 
+    color: #353940;
+    background-color: #F2F2F2;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.black-border {
+    
+    text-align: center;
+    
+}
+
+.slogan {
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+.navbar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 40px;
+    font-weight: 500;
+    border: 1px solid #353940;
+    background-color: #353940;
+    text-align: left;
+    border-radius: none;
+    
+}
+
+.navbar:hover {
+    : black;
+}
+
+.aboutIMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-bottom: 80px;
+    
+}
+
+.IMGtext {
+    vertical-align: top;
+    display: inline-block;
+    text-align: right;
+    width: 120px;
+}
+
+.meText {
+    float: left;
+    width: 700px;
+    padding-left: 40px;
+}
+
+
+.nameAbout {
+    padding-top: 32px;
+    padding-left: 40px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.products {
+    padding-top: 32px;
+    padding-left: 40px;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+.productsList {
+    padding-left: 40px;
+    padding-bottom: 32px;
+}
+
+.footer {
+    padding-left: 40px;
+}
